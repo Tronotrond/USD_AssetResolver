@@ -13,7 +13,9 @@ Compile and copy libSimpleMapResolver.so, json config file and plugInfo.json to 
 To work with renderes like SideFX Houdini HUSK, set these environment variables
 
 PXR_PLUGINPATH_NAME=/opt/usd_plugins/SimpleMapResolver
+
 PXR_AR_DEFAULT_RESOLVER=SimpleMapResolver
+
 SIMPLE_RESOLVER_CONFIG=/opt/usd_plugins/SimpleMapResolver/simple_resolver.json
 
 Change the paths to match your installation directory.
