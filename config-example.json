@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    {
+      "from": "S:/",
+      "to": "/mnt/drive/"
+    }
+  ],
+  "normalizeBackslashes": true,
+  "caseInsensitiveDrive": true
+}

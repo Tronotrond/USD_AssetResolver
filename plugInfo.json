@@ -1,0 +1,18 @@
+{
+  "Plugins": [
+    {
+      "Name": "SimpleMapResolver",
+      "Type": "resource",
+      "Info": {
+        "Types": {
+          "SimpleMapResolver": {           // <-- MUST match the C++ class name
+            "bases": ["ArResolver"],
+            "displayName": "SimpleMapResolver"
+          }
+        }
+      },
+      "LibraryPath": "./libSimpleMapResolver.so",
+      "ResourcePath": "."
+    }
+  ]
+}
