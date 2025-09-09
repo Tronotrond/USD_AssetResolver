@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    {
+      "from": "S:/",
+      "to": "/mnt/AnimationStorage/"
+    }
+  ],
+  "normalizeBackslashes": true,
+  "caseInsensitiveDrive": true
+}

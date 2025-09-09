@@ -1,0 +1,18 @@
+{
+  "Plugins": [
+    {
+      "Name": "SimpleMapResolver",
+      "Type": "library",
+      "Info": {
+        "Types": {
+          "SimpleMapResolver": {
+            "bases": ["ArResolver"],
+            "displayName": "SimpleMapResolver"
+          }
+        }
+      },
+      "LibraryPath": "./libSimpleMapResolver.so",
+      "ResourcePath": "."
+    }
+  ]
+}
